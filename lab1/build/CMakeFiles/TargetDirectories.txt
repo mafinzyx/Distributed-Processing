@@ -1,0 +1,3 @@
+D:/Przetwazania Rozproszczone/lab1/build/CMakeFiles/main.dir
+D:/Przetwazania Rozproszczone/lab1/build/CMakeFiles/edit_cache.dir
+D:/Przetwazania Rozproszczone/lab1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "format": "c",
+        "initializer_list": "c",
+        "span": "c",
+        "signal.h": "c"
+    }
+}

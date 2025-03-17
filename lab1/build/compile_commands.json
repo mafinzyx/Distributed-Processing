@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Przetwazania Rozproszczone/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c \"D:\\Przetwazania Rozproszczone\\lab1\\main.c\"",
+  "file": "D:/Przetwazania Rozproszczone/lab1/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "D:/Przetwazania Rozproszczone/lab1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\main.dir\\priority_queue_list.c.obj -c \"D:\\Przetwazania Rozproszczone\\lab1\\priority_queue_list.c\"",
+  "file": "D:/Przetwazania Rozproszczone/lab1/priority_queue_list.c",
+  "output": "CMakeFiles/main.dir/priority_queue_list.c.obj"
+}
+]
